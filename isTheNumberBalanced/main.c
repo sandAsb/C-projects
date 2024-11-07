@@ -1,8 +1,3 @@
-
-/*Name:Sandra Yousef Khalil Asbah
-id number:1221305
-lecture section 6
-lab section 12L*/
 #include <stdio.h>
 #include <stdlib.h>
 int hasEqualDigitSum(int);
